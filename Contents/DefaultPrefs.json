@@ -1,0 +1,32 @@
+[
+	{
+		"id": "lang_1",
+		"label": "Subtitle Language (1)",
+		"type": "enum",
+		"values": ["None", "Albanian", "Arabic", "Bengali", "Brazilian-Portuguese", "Bulgarian", "Bosnian", "Chinese", "Croatian", "Czech", "Danish", "Dutch",
+					"English", "Estonian", "Farsi-Persian", "Finnish", "French", "German", "Greek", "Hebrew", "Hungarian", "Indonesian", "Italian", "Japanese",
+					"Korean", "Lithuanian", "Macedonian", "Malay", "Norwegian", "Polish", "Portuguese", "Romanian", "Russian", "Serbian", "Slovenian",
+					"Spanish", "Swedish", "Thai", "Turkish", "Urdu", "Ukrainian", "Vietnamese"],
+		"default": "None"
+	},
+	{
+		"id": "lang_2",
+		"label": "Subtitle Language (2)",
+		"type": "enum",
+		"values": ["None", "Albanian", "Arabic", "Bengali", "Brazilian-Portuguese", "Bulgarian", "Bosnian", "Chinese", "Croatian", "Czech", "Danish", "Dutch",
+					"English", "Estonian", "Farsi-Persian", "Finnish", "French", "German", "Greek", "Hebrew", "Hungarian", "Indonesian", "Italian", "Japanese",
+					"Korean", "Lithuanian", "Macedonian", "Malay", "Norwegian", "Polish", "Portuguese", "Romanian", "Russian", "Serbian", "Slovenian",
+					"Spanish", "Swedish", "Thai", "Turkish", "Urdu", "Ukrainian", "Vietnamese"],
+		"default": "None"
+	},
+	{
+		"id": "lang_3",
+		"label": "Subtitle Language (3)",
+		"type": "enum",
+		"values": ["None", "Albanian", "Arabic", "Bengali", "Brazilian-Portuguese", "Bulgarian", "Bosnian", "Chinese", "Croatian", "Czech", "Danish", "Dutch",
+					"English", "Estonian", "Farsi-Persian", "Finnish", "French", "German", "Greek", "Hebrew", "Hungarian", "Indonesian", "Italian", "Japanese",
+					"Korean", "Lithuanian", "Macedonian", "Malay", "Norwegian", "Polish", "Portuguese", "Romanian", "Russian", "Serbian", "Slovenian",
+					"Spanish", "Swedish", "Thai", "Turkish", "Urdu", "Ukrainian", "Vietnamese"],
+		"default": "None"
+	}
+]
