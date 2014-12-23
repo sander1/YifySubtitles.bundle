@@ -49,6 +49,10 @@ def fetch_subtitles(part, imdb_id):
 	for l in lang_list:
 		json_obj = JSON.ObjectFromURL(YIFY_SUBS_API % (imdb_id), sleep=2.0)
 
+		if 'subtitles' not in json_obj or json_obj['subtitles'] < 1:
+			Log('No subtitles available')
+			return None
+
 		if l.lower() not in json_obj['subs'][imdb_id]:
 			Log('No subtitles available for language "%s"' % (l))
 			return None
